@@ -8,7 +8,6 @@ I am currently learning and building projects using Next.js and the modern JavaS
 
 Skills:  REACT / JS / HTML / CSS/ NEXT JS
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning NEXT JS 
 - 👯 I’m looking to collaborate on Github 
 - 🤔 I’m looking for help with Web Developers 
