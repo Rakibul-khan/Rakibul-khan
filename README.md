@@ -6,13 +6,18 @@ Hi, I'm Rakibul Hossain, an aspiring Full Stack Web Developer passionate about b
 
 I am currently learning and building projects using Next.js and the modern JavaScript ecosystem. I enjoy turning ideas into real-world applications and continuously improving my development skills.
 
-Skills:  REACT / JS / HTML / CSS/ NEXT JS
+Skills:
+REACT / JS / HTML / CSS/ NEXT JS
 
 - 🌱 I’m currently learning NEXT JS 
 - 👯 I’m looking to collaborate on Github 
 - 🤔 I’m looking for help with Web Developers 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: rakibulhossain3654@gmail.com 
+
+Social Links : 
+1.Linkedin : https://www.linkedin.com/in/rakibul-hossain-b94162308/
+2.Facebook : https://www.facebook.com/rakibul.hossain.7547
 
 
 
