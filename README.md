@@ -20,7 +20,7 @@ Skills:  REACT / JS / HTML / CSS/ NEXT JS
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakibul-khan&show_icons=true&count_private=true)  
+
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Rakibul-khan/contributions?format=svg&private=true)  
 
